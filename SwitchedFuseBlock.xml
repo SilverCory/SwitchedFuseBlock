@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/cory.redmond/PCBs/SwitchedFuseBlock/SwitchedFuseBlock.kicad_sch</source>
+    <date>Monday, 09 September 2024 at 17:19:10</date>
+    <tool>Eeschema (6.0.7-1)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>2024-09-08</date>
+        <source>SwitchedFuseBlock.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="Fused_1">
+      <value>2_Way_Fuse</value>
+      <footprint>LIB_01000057Z:2 Way Fuse</footprint>
+      <libsource lib="LIB_01000057Z" part="2_Way_Fuse" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwitchedFuseBlock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a19590a0-613d-4e1d-8669-39637605f22f</tstamps>
+    </comp>
+    <comp ref="Fused_2">
+      <value>2_Way_Fuse</value>
+      <footprint>LIB_01000057Z:2 Way Fuse</footprint>
+      <libsource lib="LIB_01000057Z" part="2_Way_Fuse" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwitchedFuseBlock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f151f43f-bbdd-44c0-966f-8ddf8fa7165e</tstamps>
+    </comp>
+    <comp ref="Fused_3">
+      <value>2_Way_Fuse</value>
+      <footprint>LIB_01000057Z:2 Way Fuse</footprint>
+      <libsource lib="LIB_01000057Z" part="2_Way_Fuse" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwitchedFuseBlock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf307d12-5317-4a29-ac34-9e8d74e5239e</tstamps>
+    </comp>
+    <comp ref="Fused_4">
+      <value>2_Way_Fuse</value>
+      <footprint>LIB_01000057Z:2 Way Fuse</footprint>
+      <libsource lib="LIB_01000057Z" part="2_Way_Fuse" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwitchedFuseBlock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e665f2c0-a724-44bb-932d-d4ceb9b68437</tstamps>
+    </comp>
+    <comp ref="Fused_5">
+      <value>2_Way_Fuse</value>
+      <footprint>LIB_01000057Z:2 Way Fuse</footprint>
+      <libsource lib="LIB_01000057Z" part="2_Way_Fuse" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwitchedFuseBlock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e4ccef6-fa12-4b40-90e5-bf1939dc51d3</tstamps>
+    </comp>
+    <comp ref="GroundOut1">
+      <value>2604-1105</value>
+      <footprint>ul_2604-1105:CONN5_2604-1105_WAG</footprint>
+      <datasheet>2604-1105</datasheet>
+      <libsource lib="ul_2604-1105" part="2604-1105" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwitchedFuseBlock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ea703f9-f624-477e-b552-8c319efb519b</tstamps>
+    </comp>
+    <comp ref="InputWago1">
+      <value>2604-1103</value>
+      <footprint>LIB_2604-1103:26041103</footprint>
+      <fields>
+        <field name="Datasheet_1">https://www.wago.com/2604-1103</field>
+        <field name="Footprint_1">26041103</field>
+        <field name="Height">16.7</field>
+        <field name="Manufacturer_Name">Wago</field>
+        <field name="Manufacturer_Part_Number">2604-1103</field>
+        <field name="Reference_1">J</field>
+        <field name="Value_1">2604-1103</field>
+      </fields>
+      <libsource lib="LIB_2604-1103" part="2604-1103" description="PCB terminal block; lever; 4 mm; Pin spacing 5 mm; 3-pole; Push-in CAGE CLAMP"/>
+      <property name="Reference_1" value="J"/>
+      <property name="Value_1" value="2604-1103"/>
+      <property name="Footprint_1" value="26041103"/>
+      <property name="Datasheet_1" value="https://www.wago.com/2604-1103"/>
+      <property name="Height" value="16.7"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Wago"/>
+      <property name="Manufacturer_Part_Number" value="2604-1103"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwitchedFuseBlock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad4b0d35-53a9-44ff-a7c6-1d7a06937d7e</tstamps>
+    </comp>
+    <comp ref="PositiveOut1">
+      <value>2604-1105</value>
+      <footprint>ul_2604-1105:CONN5_2604-1105_WAG</footprint>
+      <datasheet>2604-1105</datasheet>
+      <libsource lib="ul_2604-1105" part="2604-1105" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwitchedFuseBlock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>888d73a1-6ea1-4fc7-96b1-7290a96a75cf</tstamps>
+    </comp>
+    <comp ref="Relay1">
+      <value>1393280-6</value>
+      <footprint>LIB_1393280-6:13932806</footprint>
+      <fields>
+        <field name="Datasheet_1">https://www.te.com/en/product-1393280-6.datasheet.pdf</field>
+        <field name="Footprint_1">13932806</field>
+        <field name="Height">10.1</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">1393280-6</field>
+        <field name="Reference_1">K</field>
+        <field name="Value_1">1393280-6</field>
+      </fields>
+      <libsource lib="LIB_1393280-6" part="1393280-6" description="RELAY, AUTOMOTIVE, SPDT, 12VDC, 30A"/>
+      <property name="Reference_1" value="K"/>
+      <property name="Value_1" value="1393280-6"/>
+      <property name="Footprint_1" value="13932806"/>
+      <property name="Datasheet_1" value="https://www.te.com/en/product-1393280-6.datasheet.pdf"/>
+      <property name="Height" value="10.1"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="TE Connectivity"/>
+      <property name="Manufacturer_Part_Number" value="1393280-6"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwitchedFuseBlock.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b051e38-f473-4f38-aac1-4093283cd90d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="LIB_01000057Z" part="2_Way_Fuse">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">2_Way_Fuse</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Switched_1" type="power_in"/>
+        <pin num="2" name="Switched_2" type="power_in"/>
+        <pin num="3" name="Drain_1" type="power_out"/>
+        <pin num="4" name="Drain_2" type="power_out"/>
+        <pin num="5" name="Powered_1" type="power_in"/>
+        <pin num="6" name="Powered_2" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="LIB_1393280-6" part="1393280-6">
+      <description>RELAY, AUTOMOTIVE, SPDT, 12VDC, 30A</description>
+      <fields>
+        <field name="Value">1393280-6</field>
+        <field name="Reference_1">K</field>
+        <field name="Value_1">1393280-6</field>
+        <field name="Footprint_1">13932806</field>
+        <field name="Datasheet_1">https://www.te.com/en/product-1393280-6.datasheet.pdf</field>
+        <field name="Height">10.1</field>
+        <field name="Manufacturer_Name">TE Connectivity</field>
+        <field name="Manufacturer_Part_Number">1393280-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COIL_1" type="passive"/>
+        <pin num="2" name="COIL_2" type="passive"/>
+        <pin num="3" name="NC" type="no_connect"/>
+        <pin num="4" name="COM" type="passive"/>
+        <pin num="5" name="NO" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LIB_2604-1103" part="2604-1103">
+      <description>PCB terminal block; lever; 4 mm; Pin spacing 5 mm; 3-pole; Push-in CAGE CLAMP</description>
+      <fields>
+        <field name="Value">2604-1103</field>
+        <field name="Reference_1">J</field>
+        <field name="Value_1">2604-1103</field>
+        <field name="Footprint_1">26041103</field>
+        <field name="Datasheet_1">https://www.wago.com/2604-1103</field>
+        <field name="Height">16.7</field>
+        <field name="Manufacturer_Name">Wago</field>
+        <field name="Manufacturer_Part_Number">2604-1103</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1.1" type="passive"/>
+        <pin num="2" name="1.2" type="passive"/>
+        <pin num="3" name="2.1" type="passive"/>
+        <pin num="4" name="2.2" type="passive"/>
+        <pin num="5" name="3.1" type="passive"/>
+        <pin num="6" name="3.2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ul_2604-1105" part="2604-1105">
+      <docs>2604-1105</docs>
+      <footprints>
+        <fp>CONN5_2604-1105_WAG</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">2604-1105</field>
+        <field name="Footprint">CONN5_2604-1105_WAG</field>
+        <field name="Datasheet">2604-1105</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1_1" type="unspecified"/>
+        <pin num="2" name="1_2" type="unspecified"/>
+        <pin num="3" name="2_1" type="unspecified"/>
+        <pin num="4" name="2_2" type="unspecified"/>
+        <pin num="5" name="3_1" type="unspecified"/>
+        <pin num="6" name="3_2" type="unspecified"/>
+        <pin num="7" name="4_1" type="unspecified"/>
+        <pin num="8" name="4_2" type="unspecified"/>
+        <pin num="9" name="5_1" type="unspecified"/>
+        <pin num="10" name="5_2" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="LIB_01000057Z">
+      <uri>/Users/cory.redmond/PCBs/SwitchedFuseBlock/Components/LIB_01000057Z/01000057Z/KiCad/01000057Z.kicad_sym</uri>
+    </library>
+    <library logical="LIB_1393280-6">
+      <uri>/Users/cory.redmond/PCBs/SwitchedFuseBlock/Components/LIB_1393280-6/1393280-6/KiCad/1393280-6.kicad_sym</uri>
+    </library>
+    <library logical="LIB_2604-1103">
+      <uri>/Users/cory.redmond/PCBs/SwitchedFuseBlock/Components/LIB_2604-1103/2604-1103/KiCad/2604-1103.kicad_sym</uri>
+    </library>
+    <library logical="ul_2604-1105">
+      <uri>/Users/cory.redmond/PCBs/SwitchedFuseBlock/Components/ul_2604-1105/KiCADv6/2024-08-27_15-00-53.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(Fused_1-Pad1)">
+      <node ref="Fused_1" pin="1" pinfunction="Switched_1" pintype="power_in"/>
+      <node ref="Fused_1" pin="2" pinfunction="Switched_2" pintype="power_in"/>
+      <node ref="Fused_2" pin="1" pinfunction="Switched_1" pintype="power_in"/>
+      <node ref="Fused_2" pin="2" pinfunction="Switched_2" pintype="power_in"/>
+      <node ref="Fused_3" pin="1" pinfunction="Switched_1" pintype="power_in"/>
+      <node ref="Fused_3" pin="2" pinfunction="Switched_2" pintype="power_in"/>
+      <node ref="Fused_4" pin="1" pinfunction="Switched_1" pintype="power_in"/>
+      <node ref="Fused_4" pin="2" pinfunction="Switched_2" pintype="power_in"/>
+      <node ref="Fused_5" pin="1" pinfunction="Switched_1" pintype="power_in"/>
+      <node ref="Fused_5" pin="2" pinfunction="Switched_2" pintype="power_in"/>
+      <node ref="Relay1" pin="5" pinfunction="NO" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(Fused_1-Pad3)">
+      <node ref="Fused_1" pin="3" pinfunction="Drain_1" pintype="power_out"/>
+      <node ref="Fused_1" pin="4" pinfunction="Drain_2" pintype="power_out"/>
+      <node ref="PositiveOut1" pin="1" pinfunction="1_1" pintype="unspecified"/>
+      <node ref="PositiveOut1" pin="2" pinfunction="1_2" pintype="unspecified"/>
+    </net>
+    <net code="3" name="Net-(Fused_1-Pad5)">
+      <node ref="Fused_1" pin="5" pinfunction="Powered_1" pintype="power_in"/>
+      <node ref="Fused_1" pin="6" pinfunction="Powered_2" pintype="power_in"/>
+      <node ref="Fused_2" pin="5" pinfunction="Powered_1" pintype="power_in"/>
+      <node ref="Fused_2" pin="6" pinfunction="Powered_2" pintype="power_in"/>
+      <node ref="Fused_3" pin="5" pinfunction="Powered_1" pintype="power_in"/>
+      <node ref="Fused_3" pin="6" pinfunction="Powered_2" pintype="power_in"/>
+      <node ref="Fused_4" pin="5" pinfunction="Powered_1" pintype="power_in"/>
+      <node ref="Fused_4" pin="6" pinfunction="Powered_2" pintype="power_in"/>
+      <node ref="Fused_5" pin="5" pinfunction="Powered_1" pintype="power_in"/>
+      <node ref="Fused_5" pin="6" pinfunction="Powered_2" pintype="power_in"/>
+      <node ref="InputWago1" pin="5" pinfunction="3.1" pintype="passive"/>
+      <node ref="InputWago1" pin="6" pinfunction="3.2" pintype="passive"/>
+      <node ref="Relay1" pin="4" pinfunction="COM" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(Fused_2-Pad3)">
+      <node ref="Fused_2" pin="3" pinfunction="Drain_1" pintype="power_out"/>
+      <node ref="Fused_2" pin="4" pinfunction="Drain_2" pintype="power_out"/>
+      <node ref="PositiveOut1" pin="3" pinfunction="2_1" pintype="unspecified"/>
+      <node ref="PositiveOut1" pin="4" pinfunction="2_2" pintype="unspecified"/>
+    </net>
+    <net code="5" name="Net-(Fused_3-Pad3)">
+      <node ref="Fused_3" pin="3" pinfunction="Drain_1" pintype="power_out"/>
+      <node ref="Fused_3" pin="4" pinfunction="Drain_2" pintype="power_out"/>
+      <node ref="PositiveOut1" pin="5" pinfunction="3_1" pintype="unspecified"/>
+      <node ref="PositiveOut1" pin="6" pinfunction="3_2" pintype="unspecified"/>
+    </net>
+    <net code="6" name="Net-(Fused_4-Pad3)">
+      <node ref="Fused_4" pin="3" pinfunction="Drain_1" pintype="power_out"/>
+      <node ref="Fused_4" pin="4" pinfunction="Drain_2" pintype="power_out"/>
+      <node ref="PositiveOut1" pin="7" pinfunction="4_1" pintype="unspecified"/>
+      <node ref="PositiveOut1" pin="8" pinfunction="4_2" pintype="unspecified"/>
+    </net>
+    <net code="7" name="Net-(Fused_5-Pad3)">
+      <node ref="Fused_5" pin="3" pinfunction="Drain_1" pintype="power_out"/>
+      <node ref="Fused_5" pin="4" pinfunction="Drain_2" pintype="power_out"/>
+      <node ref="PositiveOut1" pin="10" pinfunction="5_2" pintype="unspecified"/>
+      <node ref="PositiveOut1" pin="9" pinfunction="5_1" pintype="unspecified"/>
+    </net>
+    <net code="8" name="Net-(GroundOut1-Pad1)">
+      <node ref="GroundOut1" pin="1" pinfunction="1_1" pintype="unspecified"/>
+      <node ref="GroundOut1" pin="10" pinfunction="5_2" pintype="unspecified"/>
+      <node ref="GroundOut1" pin="2" pinfunction="1_2" pintype="unspecified"/>
+      <node ref="GroundOut1" pin="3" pinfunction="2_1" pintype="unspecified"/>
+      <node ref="GroundOut1" pin="4" pinfunction="2_2" pintype="unspecified"/>
+      <node ref="GroundOut1" pin="5" pinfunction="3_1" pintype="unspecified"/>
+      <node ref="GroundOut1" pin="6" pinfunction="3_2" pintype="unspecified"/>
+      <node ref="GroundOut1" pin="7" pinfunction="4_1" pintype="unspecified"/>
+      <node ref="GroundOut1" pin="8" pinfunction="4_2" pintype="unspecified"/>
+      <node ref="GroundOut1" pin="9" pinfunction="5_1" pintype="unspecified"/>
+      <node ref="InputWago1" pin="1" pinfunction="1.1" pintype="passive"/>
+      <node ref="InputWago1" pin="2" pinfunction="1.2" pintype="passive"/>
+      <node ref="Relay1" pin="2" pinfunction="COIL_2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(InputWago1-Pad4)">
+      <node ref="InputWago1" pin="4" pinfunction="2.2" pintype="passive"/>
+      <node ref="Relay1" pin="1" pinfunction="COIL_1" pintype="passive"/>
+    </net>
+    <net code="10" name="unconnected-(InputWago1-Pad3)">
+      <node ref="InputWago1" pin="3" pinfunction="2.1" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(Relay1-Pad3)">
+      <node ref="Relay1" pin="3" pinfunction="NC" pintype="no_connect"/>
+    </net>
+  </nets>
+</export>

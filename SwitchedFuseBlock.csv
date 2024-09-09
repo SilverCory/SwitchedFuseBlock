@@ -1,0 +1,28 @@
+"Source:","/Users/cory.redmond/PCBs/SwitchedFuseBlock/SwitchedFuseBlock.kicad_sch"
+"Date:","Monday, 09 September 2024 at 17:19:10"
+"Tool:","Eeschema (6.0.7-1)-1"
+"Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","9"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Datasheet_1","Footprint_1","Height","Manufacturer_Name","Manufacturer_Part_Number","Reference_1","Value_1"
+"","","Fused_1","2_Way_Fuse","LIB_01000057Z:2_Way_Fuse","LIB_01000057Z:2 Way Fuse","","","","","","","",""
+"","","Fused_2","2_Way_Fuse","LIB_01000057Z:2_Way_Fuse","LIB_01000057Z:2 Way Fuse","","","","","","","",""
+"","","Fused_3","2_Way_Fuse","LIB_01000057Z:2_Way_Fuse","LIB_01000057Z:2 Way Fuse","","","","","","","",""
+"","","Fused_4","2_Way_Fuse","LIB_01000057Z:2_Way_Fuse","LIB_01000057Z:2 Way Fuse","","","","","","","",""
+"","","Fused_5","2_Way_Fuse","LIB_01000057Z:2_Way_Fuse","LIB_01000057Z:2 Way Fuse","","","","","","","",""
+"","","GroundOut1","2604-1105","ul_2604-1105:2604-1105","ul_2604-1105:CONN5_2604-1105_WAG","2604-1105","","","","","","",""
+"","","InputWago1","2604-1103","LIB_2604-1103:2604-1103","LIB_2604-1103:26041103","","https://www.wago.com/2604-1103","26041103","16.7","Wago","2604-1103","J","2604-1103"
+"","","PositiveOut1","2604-1105","ul_2604-1105:2604-1105","ul_2604-1105:CONN5_2604-1105_WAG","2604-1105","","","","","","",""
+"","","Relay1","1393280-6","LIB_1393280-6:1393280-6","LIB_1393280-6:13932806","","https://www.te.com/en/product-1393280-6.datasheet.pdf","13932806","10.1","TE Connectivity","1393280-6","K","1393280-6"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Datasheet_1","Footprint_1","Height","Manufacturer_Name","Manufacturer_Part_Number","Reference_1","Value_1"
+"1","5","Fused_1, Fused_2, Fused_3, Fused_4, Fused_5","2_Way_Fuse","LIB_01000057Z:2_Way_Fuse","LIB_01000057Z:2 Way Fuse","","","","","","","",""
+"2","2","GroundOut1, PositiveOut1","2604-1105","ul_2604-1105:2604-1105","ul_2604-1105:CONN5_2604-1105_WAG","2604-1105","","","","","","",""
+"3","1","InputWago1","2604-1103","LIB_2604-1103:2604-1103","LIB_2604-1103:26041103","","https://www.wago.com/2604-1103","26041103","16.7","Wago","2604-1103","J","2604-1103"
+"4","1","Relay1","1393280-6","LIB_1393280-6:1393280-6","LIB_1393280-6:13932806","","https://www.te.com/en/product-1393280-6.datasheet.pdf","13932806","10.1","TE Connectivity","1393280-6","K","1393280-6"
