@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2604_1103'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wago", "2604-1103" (!) = "", "26041103", "Other", "", "", "PCB terminal block; lever; 4 mm; Pin spacing 5 mm; 3-pole; Push-in CAGE CLAMP", "https://www.wago.com/2604-1103", "16.7 mm"
+END_PART
+
+END.

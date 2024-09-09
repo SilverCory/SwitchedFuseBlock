@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "LIB_01000057Z")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_01000057Z/01000057Z/KiCad")(options "")(descr ""))
+  (lib (name "ul_2604-1105")(type "KiCad")(uri "${KIPRJMOD}/Components/ul_2604-1105/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "ul_2604-1102")(type "KiCad")(uri "${KIPRJMOD}/Components/ul_2604-1102/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "LIB_1393280-6")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_1393280-6/1393280-6/KiCad")(options "")(descr ""))
+  (lib (name "LIB_2604-1103")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_2604-1103/2604-1103/KiCad")(options "")(descr ""))
+)

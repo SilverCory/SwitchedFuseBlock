@@ -1,0 +1,9 @@
+Manufacturer=Wago
+PartNumber=2604-1103
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=4.8
+Released=2023-06-26 04:07:29
+Downloaded=2024-09-07 23:39:06
+3D=Y

@@ -1,0 +1,141 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "1393280-6"
+   (description "RELAY, AUTOMOTIVE, SPDT, 12VDC, 30A")
+   (family "RLY")
+   (package "13932806")
+   (attribute "Datasheet Link" "https://www.te.com/en/product-1393280-6.datasheet.pdf")
+   (attribute "Geometry.Height" "10.1mm")
+   (attribute "Farnell Part Number" "")
+   (attribute "Farnell Price/Stock" "")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "1393280-6")
+   (gate
+    (symbol "1393280-6")
+    (pin "COIL_1" 1 PS)
+    (pin "COIL_2" 2 PS)
+    (pin "NC" 3 NC)
+    (pin "COM" 4 PS)
+    (pin "NO" 5 PS)
+   )
+  )
+  (symbol "1393280-6"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "13932806"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -9.22 7.93)
+      (pt 2.78 7.93)
+      (pt 2.78 -4.97)
+      (pt -9.22 -4.97)
+      (pt -9.22 7.93))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -10.22 -5.97)
+      (pt 3.78 -5.97)
+      (pt 3.78 8.93)
+      (pt -10.22 8.93)
+      (pt -10.22 -5.97))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -9.22 -4.97)
+      (pt 2.78 -4.97)
+      (pt 2.78 7.93)
+      (pt -9.22 7.93)
+      (pt -9.22 -4.97))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 3.2 0)
+      (arc (pt 3.200 0.000) (pt 3.200 -0.050) (pt 3.300 0.050) (start 180.0) (sweep -180.0))
+      (pt 3.3 0)
+      (arc (pt 3.300 0.000) (pt 3.200 -0.050) (pt 3.300 0.050) (start 180.0) (sweep .0))
+      (pt 3.2 0)
+      (arc (pt 3.200 0.000) (pt 3.200 -0.050) (pt 3.300 0.050) (start 180.0) (sweep -180.0))
+      (pt 3.3 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt -7.500 6.600) (padstack 2))
+   (leg 3 (pt -7.000 -3.600) (padstack 0))
+   (leg 4 (pt 1.000 -3.600) (padstack 0))
+   (leg 5 (pt -7.000 -0.600) (padstack 0))
+   (padstack 0
+    (hole 1.4)
+    (plated true)
+    (pad (layer TCOP) (round 2.000))
+    (pad (layer INNER) (round 2.000))
+    (pad (layer BCOP) (round 2.000))
+   )
+   (padstack 1
+    (hole 0.81)
+    (plated true)
+    (pad (layer TCOP) (square 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (square 1.300))
+   )
+   (padstack 2
+    (hole 0.81)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (model "1393280-6.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1393280-6
+D RELAY, AUTOMOTIVE, SPDT, 12VDC, 30A
+K
+F https://www.te.com/en/product-1393280-6.datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

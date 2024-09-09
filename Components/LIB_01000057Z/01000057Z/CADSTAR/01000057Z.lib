@@ -1,0 +1,16 @@
+.01000057Z :1 ;Littelfuse 100_57 Fuse Clip Blade Fuse
+"01000057Z"
+*STM U
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 01000057Z
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (01000057Z)
+~!Link Datasheet (-)
+~!Height (7.1mm)
+~!3D_Model (01000057Z)
+"01000057Z"
+1.1!U 2.1!U 

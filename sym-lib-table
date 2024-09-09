@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "ul_2604-1105")(type "KiCad")(uri "${KIPRJMOD}/Components/ul_2604-1105/KiCADv6/2024-08-27_15-00-53.kicad_sym")(options "")(descr ""))
+  (lib (name "ul_2604-1102")(type "KiCad")(uri "${KIPRJMOD}/Components/ul_2604-1102/KiCADv6/2024-09-07_21-36-52.kicad_sym")(options "")(descr ""))
+  (lib (name "LIB_01000057Z")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_01000057Z/01000057Z/KiCad/01000057Z.kicad_sym")(options "")(descr ""))
+  (lib (name "LIB_1393280-6")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_1393280-6/1393280-6/KiCad/1393280-6.kicad_sym")(options "")(descr ""))
+  (lib (name "LIB_2604-1103")(type "KiCad")(uri "${KIPRJMOD}/Components/LIB_2604-1103/2604-1103/KiCad/2604-1103.kicad_sym")(options "")(descr ""))
+)

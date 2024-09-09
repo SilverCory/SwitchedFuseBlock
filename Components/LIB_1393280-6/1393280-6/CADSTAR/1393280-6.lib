@@ -1,0 +1,16 @@
+.1393280-6 :1 ;RELAY, AUTOMOTIVE, SPDT, 12VDC, 30A
+"13932806"
+*STM K
+*NGS
+*PLB 1="COIL_1" 2="COIL_2" 3="NC" 4="COM" 5="NO"
+*MXP 5
+*DFN 1393280-6
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (1393280-6)
+~!Link Datasheet (https://www.te.com/en/product-1393280-6.datasheet.pdf)
+~!Height (10.1mm)
+~!3D_Model (1393280-6)
+"1393280-6"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

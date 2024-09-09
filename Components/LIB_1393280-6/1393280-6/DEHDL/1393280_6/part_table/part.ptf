@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1393280_6'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "1393280-6" (!) = "", "13932806", "Other", "", "", "RELAY, AUTOMOTIVE, SPDT, 12VDC, 30A", "https://www.te.com/en/product-1393280-6.datasheet.pdf", "10.1 mm"
+END_PART
+
+END.
